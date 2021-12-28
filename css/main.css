@@ -140,7 +140,10 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+<<<<<<< Updated upstream
 .m-auto{
 	justify-content: center;
 	display: flex;
 }
+=======
+>>>>>>> Stashed changes
